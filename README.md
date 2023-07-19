@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sajib_Ahmed</h1>
 <h3 align="center">A passionate software Engineer from Bangladesh</h3>
 
-<img align = "right" alt="coding"width="400"src="![image](https://github.com/mollah2022/mollah2022/assets/112968850/11a53ed4-9c18-4a64-ab29-d56ce16f83db)
+<img align = "right" alt="coding"width="25"src="![image](https://github.com/mollah2022/mollah2022/assets/112968850/73816ed7-60e1-4a5d-bfa1-a749a29409a5)
+
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mollah2022&label=Profile%20views&color=0e75b6&style=flat" alt="mollah2022" /> </p>
